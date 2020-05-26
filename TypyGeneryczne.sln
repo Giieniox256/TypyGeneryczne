@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypyGeneryczne", "TypyGeneryczne\TypyGeneryczne.csproj", "{8B51DCEB-469B-4855-9452-8B906F41006B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolekcjeGeneryczne", "KolekcjeGeneryczne\KolekcjeGeneryczne.csproj", "{E901E476-D483-4C0E-BA4F-0F13C81985AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -13,5 +15,9 @@ Global
 		{8B51DCEB-469B-4855-9452-8B906F41006B}.Debug|anycpu.Build.0 = Debug|anycpu
 		{8B51DCEB-469B-4855-9452-8B906F41006B}.Release|anycpu.ActiveCfg = Release|anycpu
 		{8B51DCEB-469B-4855-9452-8B906F41006B}.Release|anycpu.Build.0 = Release|anycpu
+		{E901E476-D483-4C0E-BA4F-0F13C81985AC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E901E476-D483-4C0E-BA4F-0F13C81985AC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E901E476-D483-4C0E-BA4F-0F13C81985AC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E901E476-D483-4C0E-BA4F-0F13C81985AC}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
